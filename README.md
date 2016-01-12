@@ -1,0 +1,2 @@
+# go-sample
+Goのサンプル集
